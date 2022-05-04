@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-04T06:07:54.228Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="iu-ZTX_p3UKPXtO0Za09" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-04T06:09:06.198Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="_GRe-37ijNNIqLCJP9_f" version="17.5.0" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1229" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -132,7 +132,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qqy_MR-jHPT2buiHqXoa-97" value="&lt;font style=&quot;font-size: 12px&quot;&gt;[If successfully &lt;br&gt;validated]&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#FFFFFF;mainText=" vertex="1" parent="1">
+        <mxCell id="Qqy_MR-jHPT2buiHqXoa-97" value="&lt;span style=&quot;font-size: 12px&quot;&gt;[if the input info&lt;br&gt;is valid]&lt;br&gt;&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#FFFFFF;mainText=" vertex="1" parent="1">
           <mxGeometry x="31" y="202" width="76" height="30" as="geometry" />
         </mxCell>
       </root>
