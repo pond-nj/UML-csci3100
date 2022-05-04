@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-04T06:24:01.183Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Ttsm1nqxL120CXdD1bHW" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-04T07:04:05.638Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="lGv_MIlcs1Ryv1E3SRbq" version="17.5.0" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1460" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1016" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -232,10 +232,10 @@
         </mxCell>
         <mxCell id="3WgKrcr9d8tA8QJ8lOnq-66" value="send a menu info" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=-0.133;entryY=0.112;entryDx=0;entryDy=0;entryPerimeter=0;" parent="3WgKrcr9d8tA8QJ8lOnq-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-223.99999999999977" y="844" as="sourcePoint" />
-            <mxPoint x="44.67000000000007" y="844" as="targetPoint" />
+            <mxPoint x="-223.99999999999977" y="845" as="sourcePoint" />
+            <mxPoint x="44.67000000000007" y="845" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-109" y="844" />
+              <mxPoint x="-109" y="845" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -427,7 +427,7 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3WgKrcr9d8tA8QJ8lOnq-76" value="pay" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.09;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+        <mxCell id="3WgKrcr9d8tA8QJ8lOnq-76" value="click to pay" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.09;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="157.99999999999991" y="1050.1" as="sourcePoint" />
             <mxPoint x="297.9" y="1050" as="targetPoint" />
