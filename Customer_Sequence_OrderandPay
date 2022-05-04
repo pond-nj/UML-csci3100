@@ -1,1 +1,137 @@
-<mxfile host="app.diagrams.net" modified="2022-05-04T06:24:35.528Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="5v4zyt42XVrG_3bRqiUY" version="17.5.0" type="github"><diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">7ZjLcpswFIafhmU6RhgbL2Pn0kU6yTSdSbOU4QTUCMQIEeM+fSUQYC5OcGrctNOVpV8XxP/pnMPYsFZhds1xHHxhHlADTbzMsC4MhEyELPmjlK1WTAcVis+Jp7VauCc/QYsTrabEg6QxUTBGBYmbosuiCFzR0DDnbNOc9sRo86kx9qEj3LuYdtUH4omgUB17UuufgfhB+WRzokdCXE7WQhJgj212JOvSsFacMVG0wmwFVLlX+lKsu9ozWh2MQySGLLCidHmV8YW7vZnE0e3DN4Svz/QuL5im+oUN6/x2/UNZWZxabEsr5AvEqpmG9IY8ASWR7C1j4CQEAVyOUC3f1dpSghFYamrczPuU4jgh63zbiVQ4uClPyAt8haTgn6ssjTzwdK8yL+8Izp4rHGpT/RbABWR77TEr0+V1BSYPyLdySnVXNSd9Ux3d3dTUK7bBDnGrFLG+aX61dQ1DNjSPA9igLps2kpiRSOTPtZeGfdHCwbgImM8iTHeBHN/Y/Tdrr9tTu2H2vM/srtfmYiyvrY7XHkliLNyg47kyg8gEcU6JH0lpzYRgYe4e5uJc5RzlvdxKahB5pbKmzH0up+lE5wwlAF4nTQ3xXyZLzH14bR7q58SBYiFjsplQe2zXS+/UTaz5npn9gMsdEpZyF/SiFrvqFO/HOf2HQ8du5qkqb70RO85YoWP/LyFZqxR8mBIy+6vjwD6khPSa3VNCZmN5Pe94zUGkPBpeQHaKBYtBDi09nAS5z2YxvFM2ICPiuzZdtR9V+9PCfndFKVLy25dpWEUZFDe/WWTQvHkFkDVrblEcdbQq4xzho6HnA0G6xrcVWtV5PCTSDgeLBoKd/SmwnaAd+fNh0QEr0dE1lniOAtY8EdihETs9Gdhps0KiduUbGWxZEU6dpM2TJenph4vlNnJ7fqQkLbv1vyfF9PpPKOvyFw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-04T06:52:25.480Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Jb_SXREKONSKX7YjaEg6" version="17.5.0" type="github">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="497" dy="203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pT3COi5Uxtwa7qGr7mNb-1" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="21" y="470" width="599" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="pT3COi5Uxtwa7qGr7mNb-2" value="redirect to a canteen page" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry x="0.4872" relative="1" as="geometry">
+            <mxPoint x="93" y="237" as="sourcePoint" />
+            <mxPoint x="93" y="237" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="246" y="237" />
+            </Array>
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pT3COi5Uxtwa7qGr7mNb-3" value="Customer" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="38" y="40" width="98" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="pT3COi5Uxtwa7qGr7mNb-4" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="pT3COi5Uxtwa7qGr7mNb-3">
+          <mxGeometry x="45" y="53" width="10" height="277" as="geometry" />
+        </mxCell>
+        <mxCell id="pT3COi5Uxtwa7qGr7mNb-5" value="CU Food Order&#xa;Web App" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="188" y="39" width="108" height="341" as="geometry" />
+        </mxCell>
+        <mxCell id="pT3COi5Uxtwa7qGr7mNb-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="pT3COi5Uxtwa7qGr7mNb-5">
+          <mxGeometry x="49" y="54" width="10" height="276" as="geometry" />
+        </mxCell>
+        <mxCell id="pT3COi5Uxtwa7qGr7mNb-7" value="User Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="326" y="40" width="100" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="pT3COi5Uxtwa7qGr7mNb-8" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="pT3COi5Uxtwa7qGr7mNb-7">
+          <mxGeometry x="45" y="190" width="10" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="pT3COi5Uxtwa7qGr7mNb-24" value="send canteen id to request info" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="pT3COi5Uxtwa7qGr7mNb-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-79" y="100.25999999999999" as="sourcePoint" />
+            <mxPoint x="181" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="46" y="100.25999999999999" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pT3COi5Uxtwa7qGr7mNb-29" value="send canteen id to request comments" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=-0.002;entryY=0.552;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="pT3COi5Uxtwa7qGr7mNb-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="148.26" as="sourcePoint" />
+            <mxPoint x="458.98" y="147.72000000000003" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="45" y="148.26" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pT3COi5Uxtwa7qGr7mNb-30" value="return comments of a corresponding canteen" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="pT3COi5Uxtwa7qGr7mNb-7">
+          <mxGeometry x="0.5142" relative="1" as="geometry">
+            <mxPoint x="-77.00000000000023" y="169.57999999999998" as="sourcePoint" />
+            <mxPoint x="-77.00000000000023" y="169.57999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="464" y="170" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pT3COi5Uxtwa7qGr7mNb-11" value="&lt;span style=&quot;font-size: 12px&quot;&gt;[else]&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#FFFFFF;mainText=" vertex="1" parent="1">
+          <mxGeometry x="40" y="580" width="76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pT3COi5Uxtwa7qGr7mNb-13" value="Canteen&#xa;Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="463" y="39" width="100" height="341" as="geometry" />
+        </mxCell>
+        <mxCell id="pT3COi5Uxtwa7qGr7mNb-14" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="pT3COi5Uxtwa7qGr7mNb-13">
+          <mxGeometry x="45" y="80" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pT3COi5Uxtwa7qGr7mNb-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;exitX=-0.001;exitY=0.664;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.001;entryY=0.664;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40.00100000000009" y="549.004" as="sourcePoint" />
+            <mxPoint x="640.1990000000001" y="549.004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pT3COi5Uxtwa7qGr7mNb-19" value="&lt;font style=&quot;font-size: 12px&quot;&gt;[If successfully &lt;br&gt;validated]&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#FFFFFF;mainText=" vertex="1" parent="1">
+          <mxGeometry x="40" y="510" width="76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pT3COi5Uxtwa7qGr7mNb-20" value="Order Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="606" y="40" width="100" height="341" as="geometry" />
+        </mxCell>
+        <mxCell id="pT3COi5Uxtwa7qGr7mNb-21" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="pT3COi5Uxtwa7qGr7mNb-20">
+          <mxGeometry x="45" y="180" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="pT3COi5Uxtwa7qGr7mNb-23" value="click to view &#xa;a specific canteen" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.09;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95.00000000000023" y="126.09999999999991" as="sourcePoint" />
+            <mxPoint x="234.90000000000032" y="126" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="126.10000000000002" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pT3COi5Uxtwa7qGr7mNb-15" value="return the info of a corresponding canteen" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry x="0.5142" relative="1" as="geometry">
+            <mxPoint x="246.49999999999977" y="160" as="sourcePoint" />
+            <mxPoint x="246.49999999999977" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="512" y="160" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pT3COi5Uxtwa7qGr7mNb-26" value="Comments&#xa;Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="39" width="100" height="341" as="geometry" />
+        </mxCell>
+        <mxCell id="pT3COi5Uxtwa7qGr7mNb-27" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="pT3COi5Uxtwa7qGr7mNb-26">
+          <mxGeometry x="45" y="130" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pT3COi5Uxtwa7qGr7mNb-22" value="return the canteens info" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry x="-0.5903" relative="1" as="geometry">
+            <mxPoint x="387.4999999999998" y="410" as="sourcePoint" />
+            <mxPoint x="387.4999999999998" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="651" y="410" />
+            </Array>
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pT3COi5Uxtwa7qGr7mNb-31" value="add / remove &#xa;a menu to / from cart" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.09;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.106;exitY=0.64;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pT3COi5Uxtwa7qGr7mNb-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95.99999999999991" y="270.0999999999999" as="sourcePoint" />
+            <mxPoint x="235.9" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="211.00000000000003" y="270.1" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
