@@ -1,1 +1,160 @@
-<mxfile host="app.diagrams.net" modified="2022-05-04T07:21:10.853Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="NA2gh01umdMk7MdM00Er" version="17.5.0" type="github"><diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">7ZjLcpswFIafhmU6RhgbL2Pn0kU6yTSdSbOU4QTUCMQIEeM+fSUQYC5OcGrctNOVpV8XxP/pnMPYsFZhds1xHHxhHlADTbzMsC4MhEyELPmjlK1WTAcVis+Jp7VauCc/QYsTrabEg6QxUTBGBYmbosuiCFzR0DDnbNOc9sRo86kx9qEj3LuYdtUH4omgUB17UuufgfhB+WRzokdCXE7WQhJgj212JOvSsFacMVG0wmwFVLlX+lKsu9ozWh2MQySGLLCidHmV8YW7vZnE0e3DN4Svz/QuL5im+oUN6/x2/UNZWZxabEsr5AvEqpmG9IY8ASWR7C1j4CQEAVyOUC3f1dpSghFYamrczPuU4jgh63zbiVQ4uClPyAt8haTgn6ssjTzwdK8yL+8Izp4rHGpT/RbABWR77TEr0+V1BSYPyLdySnVXNSd9Ux3d3dTUK7bBDnGrFLG+aX61dQ1DNjSPA9igLps2kpiRSOTPtZeGfdHCwbgImM8iTHeBHN/Y/Tdrr9tTu2H2vM/srtfmYiyvrY7XHkliLNyg47kyg8gEcU6JH0lpzYRgYe4e5uJc5RzlvdxKahB5pbKmzH0up+lE5wwlAF4nTQ3xXyZLzH14bR7q58SBYiFjsplQe2zXS+/UTaz5npn9gMsdEpZyF/SiFrvqFO/HOf2HQ8du5qkqb70RO85YoWP/LyFZqxR8mBIy+6vjwD6khPSa3VNCZmN5Pe94zUGkPBpeQHaKBYtBDi09nAS5z2YxvFM2ICPiuzZdtR9V+9PCfndFKVLy25dpWEUZFDe/WWTQvHkFkDVrblEcdbQq4xzho6HnA0G6xrcVWtV5PCTSDgeLBoKd/SmwnaAd+fNh0QEr0dE1lniOAtY8EdihETs9Gdhps0KiduUbGWxZEU6dpM2TJenph4vlNnJ7fqQkLbv1vyfF9PpPKOvyFw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-04T07:38:29.589Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="MXH3ItkomP3pmtgyGAPr" version="17.5.0" type="github">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="2407" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="op26L698JAxrnBSLYXna-81" value="send canteen id to request comments" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="253.99999999999977" y="219.14" as="sourcePoint" />
+            <mxPoint x="565.5" y="219.14" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="374.65999999999997" y="219.14" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="op26L698JAxrnBSLYXna-42" value="redirect to a canteen page" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry x="0.4872" relative="1" as="geometry">
+            <mxPoint x="103" y="254.0000000000001" as="sourcePoint" />
+            <mxPoint x="103" y="254.0000000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="256" y="254" />
+            </Array>
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="op26L698JAxrnBSLYXna-43" value="Customer" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="48" y="50" width="98" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="op26L698JAxrnBSLYXna-44" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="op26L698JAxrnBSLYXna-43">
+          <mxGeometry x="45" y="53" width="10" height="327" as="geometry" />
+        </mxCell>
+        <mxCell id="op26L698JAxrnBSLYXna-46" value="CU Food Order&#xa;Web App" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="198" y="49" width="102" height="411" as="geometry" />
+        </mxCell>
+        <mxCell id="op26L698JAxrnBSLYXna-88" value="redirect to a canteen page" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="op26L698JAxrnBSLYXna-46">
+          <mxGeometry x="0.4872" relative="1" as="geometry">
+            <mxPoint x="-94" y="361.0000000000001" as="sourcePoint" />
+            <mxPoint x="-94" y="361.0000000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="59" y="361" />
+            </Array>
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="op26L698JAxrnBSLYXna-48" value="redirect to posting &#xa;comments page" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="op26L698JAxrnBSLYXna-46">
+          <mxGeometry x="0.4872" relative="1" as="geometry">
+            <mxPoint x="-95" y="266" as="sourcePoint" />
+            <mxPoint x="-95" y="266" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="58" y="266" />
+            </Array>
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="op26L698JAxrnBSLYXna-50" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="op26L698JAxrnBSLYXna-46">
+          <mxGeometry x="49" y="54" width="10" height="326" as="geometry" />
+        </mxCell>
+        <mxCell id="op26L698JAxrnBSLYXna-55" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;exitX=-0.001;exitY=0.664;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="op26L698JAxrnBSLYXna-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-209.9989999999999" y="551.004" as="sourcePoint" />
+            <mxPoint x="-210" y="551.0041229841162" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="op26L698JAxrnBSLYXna-79" value="submit comments and rating" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.09;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="op26L698JAxrnBSLYXna-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-93.9" y="293.1" as="sourcePoint" />
+            <mxPoint x="49.000000000000085" y="293" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="24.100000000000023" y="293.1" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="op26L698JAxrnBSLYXna-83" value="send canteen id, input comments, and rating &#xa;to create a comment for that canteen" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=-0.1;entryY=0.281;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="op26L698JAxrnBSLYXna-46" target="op26L698JAxrnBSLYXna-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="59" y="314" as="sourcePoint" />
+            <mxPoint x="365.3299999999999" y="314" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="179.65999999999997" y="314" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="op26L698JAxrnBSLYXna-64" value="Canteen&#xa;Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="49" width="100" height="411" as="geometry" />
+        </mxCell>
+        <mxCell id="op26L698JAxrnBSLYXna-65" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="op26L698JAxrnBSLYXna-64">
+          <mxGeometry x="45" y="80" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="op26L698JAxrnBSLYXna-66" value="click to view &#xa;a specific canteen" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.09;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="105" y="136.0999999999998" as="sourcePoint" />
+            <mxPoint x="244.90000000000055" y="135.9999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="136.10000000000002" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="op26L698JAxrnBSLYXna-67" value="return the info of a &#xa;corresponding canteen" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry x="0.5142" relative="1" as="geometry">
+            <mxPoint x="257.5" y="183" as="sourcePoint" />
+            <mxPoint x="257.5" y="183" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="183" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="op26L698JAxrnBSLYXna-68" value="Comments&#xa;Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="49" width="100" height="411" as="geometry" />
+        </mxCell>
+        <mxCell id="op26L698JAxrnBSLYXna-82" value="return comments of a corresponding canteen" style="verticalAlign=bottom;endArrow=none;shadow=0;strokeWidth=1;endFill=0;startArrow=block;startFill=1;" edge="1" parent="op26L698JAxrnBSLYXna-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-263.0000000000002" y="191" as="sourcePoint" />
+            <mxPoint x="48.5" y="191" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-142.34000000000003" y="191" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="op26L698JAxrnBSLYXna-69" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="op26L698JAxrnBSLYXna-68">
+          <mxGeometry x="45" y="140" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="op26L698JAxrnBSLYXna-84" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="op26L698JAxrnBSLYXna-68">
+          <mxGeometry x="45" y="297.5" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="op26L698JAxrnBSLYXna-70" value="click to post a comment" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.09;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="op26L698JAxrnBSLYXna-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="105.99999999999991" y="280.0999999999999" as="sourcePoint" />
+            <mxPoint x="245.9000000000001" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="221.00000000000003" y="280.1" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="op26L698JAxrnBSLYXna-80" value="send canteen id to &#xa;request info" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1" source="op26L698JAxrnBSLYXna-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="151" as="sourcePoint" />
+            <mxPoint x="405" y="151" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="377.65999999999997" y="151" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="op26L698JAxrnBSLYXna-86" value="" style="endArrow=block;html=1;rounded=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="575" y="372" as="sourcePoint" />
+            <mxPoint x="575" y="402" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="604" y="372" />
+              <mxPoint x="604" y="402" />
+              <mxPoint x="575" y="402" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="op26L698JAxrnBSLYXna-87" value="add a new comment" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#000000;align=left;fontSize=11;spacingLeft=4;spacingTop=-3;strokeColor=#FFFFFF;mainText=;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="610" y="380" width="71" height="19" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
