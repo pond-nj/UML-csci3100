@@ -1,1 +1,111 @@
-<mxfile host="app.diagrams.net" modified="2022-05-04T15:01:30.836Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="17.5.1" etag="zkCljBM7yGQFVew4Gist" type="github"><diagram id="JyH9dKXLlh4wl-Uolb7m">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-04T15:37:20.526Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="gXkdtnG8ui46Nw8yp5g8" version="17.5.1" type="github">
+  <diagram id="JyH9dKXLlh4wl-Uolb7m" name="Page-1">
+    <mxGraphModel dx="988" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-25" value="" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="250.0000000000001" as="sourcePoint" />
+            <mxPoint x="520" y="250.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-1" value="Canteen Staff" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="SsQwXliOyGbZY1lNXIvn-1">
+          <mxGeometry x="45" y="70" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-5" value="CU Food Order&#xa;Web App" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="80" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="SsQwXliOyGbZY1lNXIvn-5">
+          <mxGeometry x="45" y="80" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-39" value="" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" edge="1" parent="SsQwXliOyGbZY1lNXIvn-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-125" y="249.58000000000015" as="sourcePoint" />
+            <mxPoint x="45" y="249.58000000000015" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-40" value="Click to finish an order" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SsQwXliOyGbZY1lNXIvn-5">
+          <mxGeometry x="-105" y="230" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-8" value="" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" edge="1" parent="1" source="SsQwXliOyGbZY1lNXIvn-2" target="SsQwXliOyGbZY1lNXIvn-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275" y="160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-21" value="Order database" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="80" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-22" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="SsQwXliOyGbZY1lNXIvn-21">
+          <mxGeometry x="45" y="80" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="SsQwXliOyGbZY1lNXIvn-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="200" as="sourcePoint" />
+            <mxPoint x="-125" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="10" y="200" />
+              <mxPoint x="-40" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-24" value="click to view Order page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="140" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-26" value="send canteen ID to get orders" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="355" y="230" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="SsQwXliOyGbZY1lNXIvn-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="200" as="sourcePoint" />
+            <mxPoint x="350" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="200" />
+              <mxPoint x="260" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-29" value="Get at_canteen attribute" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="180" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-30" value="" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" y="229.5800000000001" as="sourcePoint" />
+            <mxPoint x="345" y="229.5800000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-32" value="at_canteen: Canteen ID&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="210" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-36" value="Orders list" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="260" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="347.5" y="300" as="sourcePoint" />
+            <mxPoint x="172.5" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="307.5" y="300" />
+              <mxPoint x="257.5" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-38" value="Display orders" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="280" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-41" value="" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="339.58000000000015" as="sourcePoint" />
+            <mxPoint x="525" y="339.58000000000015" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-42" value="Update order status" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="320" width="120" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
