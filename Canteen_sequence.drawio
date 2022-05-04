@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-04T15:37:20.526Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="gXkdtnG8ui46Nw8yp5g8" version="17.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-04T15:47:51.872Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="P0-mjp5DmqO5_QEvNXYz" version="17.5.1" type="github">
   <diagram id="JyH9dKXLlh4wl-Uolb7m" name="Page-1">
-    <mxGraphModel dx="988" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1248" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -104,6 +104,126 @@
         </mxCell>
         <mxCell id="SsQwXliOyGbZY1lNXIvn-42" value="Update order status" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="380" y="320" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-43" value="" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1" target="SsQwXliOyGbZY1lNXIvn-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="690.0000000000001" as="sourcePoint" />
+            <mxPoint x="520" y="690.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-44" value="Canteen Staff" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="520" width="100" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-45" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="SsQwXliOyGbZY1lNXIvn-44">
+          <mxGeometry x="45" y="70" width="10" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-46" value="CU Food Order&#xa;Web App" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="520" width="100" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-47" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="SsQwXliOyGbZY1lNXIvn-46">
+          <mxGeometry x="45" y="80" width="10" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-48" value="" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" edge="1" parent="SsQwXliOyGbZY1lNXIvn-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-125" y="249.58000000000015" as="sourcePoint" />
+            <mxPoint x="45" y="249.58000000000015" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-49" value="Click to finish an order" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SsQwXliOyGbZY1lNXIvn-46">
+          <mxGeometry x="-105" y="230" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-71" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="SsQwXliOyGbZY1lNXIvn-46" source="SsQwXliOyGbZY1lNXIvn-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="190" as="sourcePoint" />
+            <mxPoint x="55" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="190" />
+              <mxPoint x="140" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-50" value="" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" edge="1" parent="1" source="SsQwXliOyGbZY1lNXIvn-45" target="SsQwXliOyGbZY1lNXIvn-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275" y="600" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-54" value="click to view Menu page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="580" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-55" value="send request to get Types and Dishes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385" y="670" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-56" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="SsQwXliOyGbZY1lNXIvn-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="640" as="sourcePoint" />
+            <mxPoint x="350" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="640" />
+              <mxPoint x="260" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-57" value="Get at_canteen attribute" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="620" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-58" value="" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" y="669.5800000000002" as="sourcePoint" />
+            <mxPoint x="345" y="669.5800000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-59" value="at_canteen: Canteen ID&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="650" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-61" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="347.5" y="740" as="sourcePoint" />
+            <mxPoint x="172.5" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="307.5" y="740" />
+              <mxPoint x="257.5" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-62" value="Display orders" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="720" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-63" value="" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1" target="SsQwXliOyGbZY1lNXIvn-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="779.5800000000002" as="sourcePoint" />
+            <mxPoint x="525" y="779.5800000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-65" value="Type database" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="520" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-66" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="SsQwXliOyGbZY1lNXIvn-65">
+          <mxGeometry x="45" y="80" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-76" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="SsQwXliOyGbZY1lNXIvn-65" target="SsQwXliOyGbZY1lNXIvn-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="165" y="270" as="sourcePoint" />
+            <mxPoint x="-129.5" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="5.5" y="270" />
+              <mxPoint x="-44.5" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-68" value="Set database" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="520" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-69" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="SsQwXliOyGbZY1lNXIvn-68">
+          <mxGeometry x="45" y="80" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-72" value="Send list of types and list of dishes in the type back" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="715" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-75" value="send request to get Sets and Dishes in the set" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="760" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SsQwXliOyGbZY1lNXIvn-77" value="Send list of sets with dishes in the set back" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="800" width="240" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
